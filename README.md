@@ -32,5 +32,4 @@ HRGPT is a smart backend system that uses Google’s Gemini LLM to convert natur
 
 ---
 
-## 📁 Project Structure
 
